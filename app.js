@@ -3,7 +3,7 @@
 
 //let paragrafo = document.querySelector("p");
 //paragrafo.innerHTML = "Escolha um número de 1 a 10"
-/*let numeroSecreto = numeroAleatorio();
+let numeroSecreto = numeroAleatorio();
 let tentativas = 1;
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
@@ -50,4 +50,4 @@ function reiniciarJogo(){
     tentativas = 1;
     document.getElementById("reiniciar").setAttribute("disabled",true);
 }
-*/
+
